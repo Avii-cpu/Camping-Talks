@@ -56,8 +56,8 @@ Camping-Talks/
    Create a `.env` file in the root directory and paste the following:
 
    ```env
-   DATABASEURL=mongodb+srv://aarnavavi29:kwvJLGGG7oMZVw7R@arnav-23bai1005.liuetu6.mongodb.net/?retryWrites=true&w=majority&appName=arnav-23BAI1005
-   PORT=3001
+   DATABASEURL
+   PORT
    ```
 
 4. **Start the server**
